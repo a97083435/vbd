@@ -164,6 +164,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CH5,https://cdn.qd.je/163189.php?id=ch5
 CH8,https://cdn.qd.je/163189.php?id=ch8
 CHU,https://cdn.qd.je/163189.php?id=chu
+
 🇨🇳港台最新,#genre#
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 緯來電影台,https://smt.1678520.xyz/163189/wldy
@@ -1079,7 +1080,6 @@ Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 🇧🇷巴西KMKYV,https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 🇦🇫阿富汗5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
 🇧🇩孟加拉国DESHI TV,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-🇰🇷韩国KBS Drama,http://8.138.7.223/tv/korea.php?id=32
 🇰🇷韩国AriangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 🇺🇸美国Fox weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 🇺🇸美国Cable News Network,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -1894,26 +1894,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 📺央视频道,#genre#
-CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
-CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
-CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
-CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
-CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
-CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
-CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
-CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
-CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
-CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
-CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
-
 CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
 CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
 CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
@@ -9167,11 +9147,37 @@ CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-
-
-
-
-
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+TVB亞洲劇,http://67.220.71.199:2347/livehttpplay?channel_id=13022
+無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
+廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
+ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
+ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
+嶺南戲曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+珠江臺,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+HOY TV,http://67.220.71.199:2347/livehttpplay?channel_id=20152
+港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
+港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
+廣東體育超清,http://67.220.71.199:2347/livehttpplay?channel_id=30031
+ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
+港臺電視32超清,http://67.220.71.199:2347/livehttpplay?channel_id=30067
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
+Now星影台,http://74.91.26.218:82/live/nowxy.m3u8
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
+CCM,http://74.91.26.218:82/live/tyjd.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+娱乐新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
+TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+美亚电影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 
 📹纪录片,#genre#
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
