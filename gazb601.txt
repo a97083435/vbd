@@ -1295,7 +1295,6 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://69.30.245.50/live/chcjt.m3u8
@@ -1307,14 +1306,12 @@ CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
 CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
-CHC影迷电影,http://mg.cttv.vip/952383261
 CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
 PopC,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=LQqn1U&tk=SLK5QjnsRiya
 USA Network,http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
 功夫台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=58Woer&tk=SLK5QjnsRiya
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
-经典电影,https://kbpull.kktv8.com/livekktv/99350550/playlist.m3u8
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙祥时代,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=4Vqzbo&tk=SLK5QjnsRiya
 靖天电影,https://cdn12.178.indevs.in/163189/jtdy
@@ -1353,7 +1350,6 @@ TVB Plus,https://cdn.qd.je/163189/tvbp2
 东森戏剧,https://cdn.qd.je/163189/dsxj
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -1377,14 +1373,11 @@ TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森电影,https://smt.1678520.xyz/163189/dsdy
 东森洋片,https://smt.1678520.xyz/163189/dsyp
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
 三立新闻,https://www.goodiptv.club/douyu/5692901
-纬来体育,https://smt.1678520.xyz/163189/wlty
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -1399,7 +1392,6 @@ TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&i
 静宁新闻综合,https://play.kankanlive.com/live/1658194434596952.m3u8
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
 纬来电影,https://cdn9.163189.xyz/smt3.1.1.php?id=videolandmovie
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
@@ -1415,9 +1407,6 @@ GOOD2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/liv
 GOODTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 GOODTV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 中国教育3,http://107.150.60.122/live/cetv3.m3u8
 中視新聞HD,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 
