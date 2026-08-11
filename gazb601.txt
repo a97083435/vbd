@@ -15,7 +15,7 @@
 含10个电视应用,https://cdn.qd.je/163189/ccm2
 需要加微信号,https://cdn.qd.je/163189/tvbc
 zybzk2688,https://cdn.qd.je/163189/ylxw
-捐赠后加微领取,https://cdn.qd.je/163189/gdzj
+捐赠后留言领取,https://cdn.qd.je/163189/gdzj
 感谢支持！,https://cdn.qd.je/163189/lhdy
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 翡翠台4K(字幕),https://cdn.qd.je/163189/fct4k
@@ -2164,7 +2164,6 @@ CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🛒付费频道(捐赠5元获取密码)_8657,#genre#
-华丽台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视频道,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2173,12 +2172,8 @@ CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 环球电视频道,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 TVB 开,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 无线新闻,https://cdn.qd.je/163189.php?id=wxxw
 翡翠台,https://cdn.qd.je/163189.php?id=fct
-TVB Plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 翡翠台4K(字幕),https://cdn.qd.je/163189/fct4k
 凤凰中文,https://cdn.qd.je/163189/fhzw
 TVB Plus(字幕),https://cdn.qd.je/163189/tvbp
@@ -2234,8 +2229,6 @@ TVB星河,https://cdn.qd.je/163189/xinghe
 华丽翡翠台(硬字幕),https://cdn.qd.je/163189/jade
 华丽翡翠台(新加坡),https://cdn.qd.je/163189/jade2
 Astro AOD,https://cdn.qd.je/163189/aod
-Astro AEC,https://cdn.qd.je/163189/aec
-Astro QJ,https://cdn.qd.je/163189/qj
 Astro欢喜台,https://cdn.qd.je/163189/hxt
 爱奇艺,https://cdn.qd.je/163189/iqiyi
 天映频道,https://cdn.qd.je/163189/typd2
@@ -2353,13 +2346,6 @@ HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
-纬来体育台,https://smt.1678520.xyz/163189/wlty
-龙祥时代,https://smt.1678520.xyz/163189/lxsd
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2369,10 +2355,8 @@ HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 無綫新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
-TVB Plus,https://smt.1678520.xyz/163189/tvbp
 Now新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TkL6PN&tk=SLK5QjnsRiya
 ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
-华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
 黃金華劇台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Y9kdAm&tk=SLK5QjnsRiya
 娛樂新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=OwCNvU&tk=SLK5QjnsRiya
 寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
@@ -2411,10 +2395,8 @@ Love Nature,https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/480p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/360p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/240p-cc/index.m3u8
-Love Nature,http://108.181.20.255:27347/livehttpplay?channel_id=23555
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN
-tvN,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=tvN
 Animax (HK),http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
@@ -2424,7 +2406,6 @@ Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 美国Free IPTV,http://stream.srg-ssr.ch/m/rsj/mp3_128
 美国July.12.2018,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 美国Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -2447,7 +2428,6 @@ NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 新西兰Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 马其顿 Sky Folk TV,http://skyfolk.mk/live.m3u8
-乌克兰100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 捷克Retro (Opt-1),http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 斯洛伐克TV 8,http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 拉脱维亚RETV,http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
