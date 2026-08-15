@@ -4763,12 +4763,12 @@ cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 绵阳科教生活,http://nas.201606.xyz:4022/udp/239.10.0.98:5140
 
 🌄重庆频道,#genre#
+重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.199:7980
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,https://sjlivecdn.cbg.cn/202608151447/564bbdbfb0cf520bff28283d47ec0f3c/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn.cbg.cn/202608151455/abb1d9cbda2196b2b5fbca5abf6cae7d/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://8.138.7.223/tv/cbg.php?id=3
 重庆新闻,https://sjlivecdnx.cbg.cn/1ive/stream_3.php
-重庆新闻,http://tv.zimtv.cn/tv/player/api/cqtv.php?id=3
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.198.180:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.198.181:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.198.182:7980
