@@ -1290,6 +1290,7 @@ Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 央视精品,http://183.11.239.36:808/hls/97/index.m3u8
 卫生健康,http://107.150.60.122/live/wsjk.m3u8
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+央视精品,http://107.150.39.250:82/live/ysjp.m3u8?jsbt=1787805872&jsbk=a2bb6a6d15a8be693938674547e5b81d&from=zbdq6
 发现之旅,http://107.150.60.122/live/fxzl.m3u8
 发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
