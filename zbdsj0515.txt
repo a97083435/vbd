@@ -102,19 +102,19 @@ CCTV1,http://107.150.52.50:82/live/cctv1.m3u8
 CCTV2,http://107.150.39.250:82/live/cctv2.m3u8?jsbt=1787804928&jsbk=2a42cc9bce3638543444e7abcf0f32dc&from=zbdq6
 CCTV3,http://107.150.39.250:82/live/cctv3.m3u8?jsbt=1787804974&jsbk=8d35b1e86e0f9ff02ed70ba947637036&from=zbdq6
 CCTV4,http://142.54.168.234:88/applive/cctv4.m3u8?u=91.199.84.102&t=1787805021&k=c16de3331590f9adc95c8abdc9bc241f&a=zbdq6
-CCTV5,107.150.52.50:82/live/cctv5.m3u8
-CCTV5+,107.150.52.50:82/live/cctv5p.m3u8
+CCTV5,http://107.150.52.50:82/live/cctv5.m3u8
+CCTV5+,http://107.150.52.50:82/live/cctv5p.m3u8
 CCTV6,http://142.54.162.26:82/live/cctv6md.m3u8?jsbt=1787805139&jsbk=646e8e3bb36584b77741e323848838b8&from=zbdq6
 CCTV7,http://142.54.168.234:88/applive/cctv7.m3u8?u=91.199.84.102&t=1787805162&k=553e72eddeda3eb1a4abf748775a55f1&a=zbdq6
 CCTV8,http://107.150.60.122:88/applive/cctv8.m3u8?u=91.199.84.102&t=1787805183&k=7ef79df445ad050d8cc44e54e573352c&a=zbdq6
 CCTV9,http://142.54.168.234:88/applive/cctv9.m3u8?u=91.199.84.102&t=1787805211&k=65c69190598ae90894f7f645e040422d&a=zbdq6
 CCTV10,http://107.150.60.122:88/applive/cctv10.m3u8?u=91.199.84.102&t=1787805229&k=46622ef7fd3b246a0261a8856dc8e792&a=zbdq6
-CCTV11,107.150.52.50:82/live/cctv11.m3u8
+CCTV11,http://107.150.52.50:82/live/cctv11.m3u8
 CCTV12,http://107.150.60.122:88/applive/cctv12.m3u8?u=91.199.84.102&t=1787805258&k=4ca9a5359d587abbb6dfce360d52a245&a=zbdq6
 CCTV13,http://107.150.60.122:88/applive/cctv13.m3u8?u=91.199.84.102&t=1787805280&k=c600ee0ad1c976954e40ae36a3c8cfd6&a=zbdq6
-CCTV14,107.150.52.50:82/live/cctv14.m3u8
-CCTV15,107.150.52.50:82/live/cctv15.m3u8
-CCTV16,107.150.52.50:82/live/cctv16.m3u8
+CCTV14,http://107.150.52.50:82/live/cctv14.m3u8
+CCTV15,http://107.150.52.50:82/live/cctv15.m3u8
+CCTV16,http://107.150.52.50:82/live/cctv16.m3u8
 CCTV17,http://107.150.32.90:82/live/cctv17md.m3u8?jsbt=1787804785&jsbk=7c445439ef09cf208f588620e710c652&from=zbdq6
 
 CCTV1,http://14.204.32.194:6410/00000003/2/H_CCTV1?virtualDomain=00000003.live_hls.zte.com
